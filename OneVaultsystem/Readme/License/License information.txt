@@ -1,0 +1,2 @@
+All types of licenses can potentially restrict people and the growth of information.
+This project has no license, so you are free to use my code in your own projects.
